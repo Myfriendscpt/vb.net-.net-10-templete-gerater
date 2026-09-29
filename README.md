@@ -1,5 +1,6 @@
-Email me for the App
+https://uploadnow.io/files/cLtbXLh
 
- myfriendscpt@gmail.com
+enter project name choose folder genrerate
 
- Im Dylan
+ found no .net10 vb templetes  ,so i made one .
+
